@@ -15,6 +15,12 @@
 - ⚡ Fun fact: In a room of 23 people there’s a 50% chance that two people have the same birthday.
 - 🧑‍ I speak german, russian and english
 
-**languages and tools:**  
+**Languages and tools:**  
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py,mysql)](https://skills.thijs.gg)
+
+**My future path:**  
+
+After my bachelor of engineering i am looking to start a data science carrier. <br>
+For this i am going to finish a data science master degree.<br>
+Now i am taking some python and data science courses to get prepared.
