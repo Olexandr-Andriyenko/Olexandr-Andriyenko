@@ -27,6 +27,6 @@ For this i am going to finish a data science master degree.<br>
 Now i am taking some python and data science courses to get prepared.
 
 
-**Inspirational quote **  
+**Inspirational quote:**  
 
 Tell me and I forget, teach me and I may remember, involve me and I learn.
