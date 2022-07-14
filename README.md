@@ -10,6 +10,7 @@
 - 📝 I regulary read math and computer science books
 - 💻 I use daily python, excel, powershell
 - 📖 I am currently studying mechanical engineering/computer science
+- 👨‍🎓 In my free time i am teaching math, physics and computer science
 - 💬 Talk to me about python, math, physics and science
 - 👯 We can connect to play some games and have a deep talk
 - ⚡ Fun fact: In a room of 23 people there’s a 50% chance that two people have the same birthday.
