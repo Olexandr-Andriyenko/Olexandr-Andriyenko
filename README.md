@@ -8,11 +8,13 @@
 - 🏦 I'm currently working as a QA Engineer/Software Tester at a multinational IT consulting and systems integration company 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary read math and computer science books
-- 💻 I use daily **.py**, **.excel**, **.sql**
+- 💻 I use daily python, excel, powershell
 - 📖 I am currently studying mechanical engineering/computer science
 - 💬 Talk to me about python, math, physics and science
 - 👯 We can connect to play some games and have a deep talk
 - ⚡ Fun fact: In a room of 23 people there’s a 50% chance that two people have the same birthday.
 - 🧑‍ I speak german, russian and english
 
+**languages and tools:**  
 
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py,mysql)](https://skills.thijs.gg)
