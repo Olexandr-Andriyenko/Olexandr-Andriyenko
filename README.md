@@ -6,7 +6,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🏦 I'm currently working as a QA Engineer/Software Tester at a multinational IT consulting and systems integration company 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary read math and computer science books
 - 💻 I use daily python, excel, powershell
 - 📖 I am currently studying mechanical engineering/computer science
