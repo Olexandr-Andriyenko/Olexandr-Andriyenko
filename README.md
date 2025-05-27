@@ -17,7 +17,7 @@
 
 **Languages and tools:**  
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,aws,docker,selenium,react,postman,postgres,mongodb,fastapi)](https://skillicons.dev)
 
 <hr style="border-width:1px;">
 
